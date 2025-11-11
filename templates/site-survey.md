@@ -1,9 +1,10 @@
-# Site Survey
+# Site Survey Template
 
-- Location
-- Contact
-- Network information (VLAN, subnet, gateway)
-- Power (PoE or non-PoE, available circuits)
-- Mounting details
-- Environmental conditions
-- Notes and photos
+Location:
+Contact:
+Network (VLAN, subnet, gateway, DHCP/static scheme):
+Switch/Port references:
+Power details (PoE/non-PoE, available circuits):
+Mounting and access notes:
+Environmental considerations:
+Photos and drawings reference:
