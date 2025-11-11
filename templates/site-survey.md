@@ -1,11 +1,10 @@
-# Site Survey
+# Site Survey Template
 
 Location:
 Contact:
-Switch and port references:
-VLAN and subnet:
-Gateway and DHCP details:
-PoE budget and power notes:
-Mounting method and access:
-Environmental risks:
-Existing equipment to integrate with:
+Network (VLAN, subnet, gateway, DHCP/static scheme):
+Switch/Port references:
+Power details (PoE/non-PoE, available circuits):
+Mounting and access notes:
+Environmental considerations:
+Photos and drawings reference:

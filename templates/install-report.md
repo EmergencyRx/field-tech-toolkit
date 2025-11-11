@@ -1,11 +1,10 @@
-# Install Report
+# Install Report Template
 
 Site:
 Date:
 Technician:
 Devices installed (model, serial, IP):
 Configuration summary:
-Validation performed:
-Issues identified:
-Actions taken:
-Handover notes and owner:
+Tests performed (network, video, recording, alarms):
+Issues found and resolutions:
+Handover notes:
