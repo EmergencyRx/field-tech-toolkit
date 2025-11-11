@@ -6,6 +6,6 @@ Switch and port references:
 VLAN and subnet:
 Gateway and DHCP details:
 PoE budget and power notes:
-Mounting and access:
+Mounting method and access:
 Environmental risks:
-Existing equipment:
+Existing equipment to integrate with:

@@ -8,4 +8,4 @@ Configuration summary:
 Validation performed:
 Issues identified:
 Actions taken:
-Handover notes:
+Handover notes and owner:

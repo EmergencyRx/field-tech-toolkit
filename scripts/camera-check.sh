@@ -39,9 +39,13 @@ else
 fi
 
 echo
-echo "[step] RTSP quick probe (documented)"
-echo "If you know the RTSP path and have ffprobe:"
-echo "  ffprobe -v error -select_streams v:0 -show_entries stream=codec_name -of default=nw=1 \"rtsp://USER:PASS@$TARGET/PATH\""
+echo "[step] RTSP quick probe (optional)"
+if command -v ffprobe >/dev/null 2>&1; then
+  echo "If you know the RTSP path, try:"
+  echo "  ffprobe -v error -select_streams v:0 -show_entries stream=codec_name -of default=nw=1 \"rtsp://USER:PASS@$TARGET/PATH\""
+else
+  echo "ffprobe not installed; RTSP check documented but not executed."
+fi
 
 echo
 echo "[result] Use this output with site templates to document install or incident."
